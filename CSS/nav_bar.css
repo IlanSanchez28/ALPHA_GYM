@@ -6,9 +6,7 @@
 nav{
     background-color: #000000;
 }
-.d-flex{
-    gap: 30px;
-}
+
 
 
 .btn{
@@ -26,6 +24,7 @@ nav{
 }
 
 .logo{
-    height: 110px;
-    width: 30;
+    height: 80px;
+    width: 100;
+    padding-left: 10px;
 }
