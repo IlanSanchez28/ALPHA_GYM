@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.row {
+    --bs-gutter-x: 0;
+ }
+nav{
+    background-color: #000000;
+}
+.d-flex{
+    gap: 30px;
+}
+
+
+.btn{
+    border-color: transparent;
+    color: #34959E;
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+}
+
+
+.btn:hover{
+    background-color: #D6ECDF;
+    border: transparent;
+    color: black;
+}
+
+.logo{
+    height: 110px;
+    width: 30;
+}
