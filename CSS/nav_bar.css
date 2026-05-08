@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
+
+
 .row {
     --bs-gutter-x: 0;
  }
@@ -11,14 +13,14 @@ nav{
 
 .btn{
     border-color: transparent;
-    color: #34959E;
+    color: #d5dedf;
     font-family: "Oswald", sans-serif;
     font-size: 22px;
 }
 
 
 .btn:hover{
-    background-color: #D6ECDF;
+    background-color: #58b9b9;
     border: transparent;
     color: black;
 }
