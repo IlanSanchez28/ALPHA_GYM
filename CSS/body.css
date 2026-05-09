@@ -149,3 +149,12 @@ body {
     height: 200px;
 }
 
+/****************Promociones*****/
+
+.contenido-Promociones{
+   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../imagenes/icee.jpeg');
+              
+    background-size: cover;       /* Hace que la foto cubra toda la sección */
+    background-position: center;  /* Centra la imagen */
+     height: 60vh;                 /* Ajusta la altura (60% de la pantalla) */
+}
